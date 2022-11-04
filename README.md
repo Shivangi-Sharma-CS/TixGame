@@ -1,3 +1,7 @@
+# Summary
+
+This is again an assignment from the University of Prince Edward Island by my professor [Dr. Andrew Godbout](https://github.com/andrewgodbout).  
+
 # CS2920-A3-GridAgain
 
 In this assignment you'll construct the backend for another grid style game - although the grid is composed of hexagon shaped tiles. The game is simple it's a two player game with one player playing white game pieces and the other playing black game pieces. The goal for the player playing white pieces is to create a link of white pieces from the bottom edge of the board to the top edge. The goal of the player playing black pieces is to create a link of black pieces from the left edge of the board to the right edge. 
